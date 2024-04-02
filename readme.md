@@ -21,7 +21,7 @@ $ pip install pillow
 
 1. Clone or download the program files to your local machine.
 2. (Optional) Modify the **IMAGE_FOLDERS** list in the program to specify the paths to the folders containing the images you want to include in the collage.
-3. (Optionail) Modify the **OUTPUT_FILE** variable to set the desired output file name for the collage.
+3. (Optional) Modify the **OUTPUT_FILE** variable to set the desired output file name for the collage.
 4. Run the program:
 
 ```bash
